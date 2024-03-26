@@ -11,3 +11,9 @@ const hello = () => {
     console.log('yerrrrrrr');
 }
 ```
+
+```js
+const waddup = () => {
+    console.log('yoooo');
+}
+```
