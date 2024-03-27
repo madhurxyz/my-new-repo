@@ -4,7 +4,7 @@ My name *is* **Madhur**.
 
 * I'm a teacher
 * I *actually* love to code, **like fr**.
-* umm...can't think of anything other than avatar
+* getting lunch with emmanuel ~sucked~ was amazing
 
 
 ```js
@@ -18,3 +18,4 @@ Absolute Url
 
 Local Directory Url
 ![Uncle Iroh tea time](pics/uncle-iroh-tea-time.webp)
+
