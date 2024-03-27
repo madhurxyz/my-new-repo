@@ -4,7 +4,6 @@ My name *is* **Madhur**.
 
 * I'm a teacher
 * I *actually* love to code, **like fr**.
-* getting lunch with emmanuel ~sucked~ was amazing
 
 
 ```js
